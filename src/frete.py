@@ -1,0 +1,1 @@
+# A implementação será desenvolvida via TDD.
